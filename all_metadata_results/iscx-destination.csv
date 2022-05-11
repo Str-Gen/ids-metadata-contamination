@@ -1,0 +1,7 @@
+dataset,test_size,accuracy_mean,accuracy_std,precision_mean,precision_std,recall_mean,recall_std,accuracy_remainder_mean,accuracy_remainder_std
+iscxids2012,0.2,0.95,0.002,0.916,0.005,0.99,0.002,0.908,0.004
+iscxids2012-1,0.2,0.937,0.007,0.896,0.009,0.989,0.006,0.896,0.002
+iscxids2012-2,0.2,0.915,0.009,0.856,0.013,1.0,0.0,0.842,0.001
+iscxids2012-3,0.2,0.95,0.003,0.979,0.003,0.92,0.005,0.979,0.003
+iscxids2012-5,0.2,0.972,0.005,0.946,0.01,1.0,0.0,0.943,0.0
+iscxids2012-9,0.2,0.95,0.001,0.914,0.002,0.994,0.001,0.907,0.0

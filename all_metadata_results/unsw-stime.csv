@@ -1,0 +1,2 @@
+dataset,test_size,accuracy_mean,accuracy_std,precision_mean,precision_std,recall_mean,recall_std,accuracy_remainder_mean,accuracy_remainder_std
+unsw-nb15,0.2,0.72,0.003,0.642,0.003,0.996,0.002,0.44,0.002
