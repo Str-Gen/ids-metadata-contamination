@@ -1,0 +1,7 @@
+dataset,test_size,accuracy_mean,accuracy_std,precision_mean,precision_std,recall_mean,recall_std,accuracy_remainder_mean,accuracy_remainder_std
+cicids2017-botnet,0.2,0.767,0.016,0.68,0.02,0.995,0.005,0.547,0.0
+cicids2017-bruteforce,0.2,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+cicids2017-ddos,0.2,1.0,0.0,0.999,0.0,1.0,0.0,0.999,0.0
+cicids2017-dos,0.2,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+cicids2017-portscan,0.2,1.0,0.0,0.999,0.0,1.0,0.0,0.999,0.0
+cicids2017,0.2,0.998,0.0,0.999,0.0,0.997,0.0,0.999,0.0
